@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidListViewExample</string>
+    <string-array name="member_names">
+        <item>Android</item>
+        <item>Java</item>
+        <item>PHP</item>
+        <item>C#</item>
+        <item>Oracle</item>
+
+    </string-array>
+    <array name="profile_pics">
+        <item>@drawable/android</item>
+        <item>@drawable/java</item>
+        <item>@drawable/php</item>
+        <item>@drawable/csharpe</item>
+        <item>@drawable/oracle</item>
+    </array>
+</resources>
